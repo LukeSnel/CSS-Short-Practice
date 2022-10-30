@@ -1,0 +1,17 @@
+.Open {
+    color: yellow;
+    background-color: blue;
+    width: 160px;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.about {
+color: white;
+background-color: pink;
+width: 95px;
+
+}
+section {
+    height: 80vh;
+    border: 1px solid black;
+}
